@@ -1,5 +1,7 @@
 # Oscillator-Based Min-Cut Demo
 
+![Animated Demo](https://github.com/galenwilkerson/galenwilkerson.github.io/blob/master/min-cut.gif)
+
 This repository contains a simple HTML/JavaScript demo illustrating how two moderately dense subgraphs, connected by a few cross-edges, can be partially distinguished via a toy oscillator-based approach.
 
 **Run the demo here**:  
